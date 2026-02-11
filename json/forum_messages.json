@@ -1,0 +1,19 @@
+{
+  "general": [
+    { "id": 1, "username": "Golang", "message": "Hello! how are we feeling?" },
+    { "id": 2, "username": "Golang", "message": "Hello! how are we feeling?" },
+    { "id": 3, "username": "Golang", "message": "Hello! how are we fee" },
+    { "id": 4, "username": "Golang", "message": "Hello! how are we feeling?" },
+    { "id": 5, "username": "Golang", "message": "Hello! how are we fe" },
+    { "id": 6, "username": "Golang", "message": "Sorry for the spam" }
+  ],
+    "pets": [
+    { "id": 1, "username": "Golang", "message": "I love dogs" },
+    { "id": 2, "username": "Golang", "message": "Cats are better tho" }
+  ],
+    "fashion": [
+    { "id": 1, "username": "Golang", "message": "1" },
+    { "id": 2, "username": "Golang", "message": "2" },
+    { "id": 3, "username": "Golang", "message": "3" }
+  ]
+}
