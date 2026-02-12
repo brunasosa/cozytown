@@ -1,0 +1,13 @@
+{
+    "Hacker": [
+        {"from": "Hacker", "message": "Hello, give me your data"},
+        {"from": "Me", "message": "No"},
+        {"from": "Hacker", "message": "Please?"}
+    ],
+
+    "Friend": [
+        {"from": "Me", "message": "Happy birthday!"},
+        {"from": "Me", "message": "Thank you!"},
+        {"from": "Me", "message": "Happy birthday!"}
+    ]
+}
